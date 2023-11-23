@@ -1,3 +1,1 @@
-# Guess-My-Number
-
-play and injoy the game
+A simple JavaScript project that lets users play the classic "Guess My Number" game. The project is designed to showcase fundamental JavaScript concepts, providing a great starting point for beginners to explore and understand basic programming logic and interactivity on the web.
